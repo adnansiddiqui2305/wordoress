@@ -1,2 +1,2 @@
-# wordoress
+# wordpress
 Appache2
